@@ -1,0 +1,280 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+}
+
+body {
+  background-image: linear-gradient(to right, orange, pink);
+  height: 100vh;
+}
+
+.container{
+  width: 100%;
+  min-height: 900px;
+  height: 100vh;
+}
+
+.eyes{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  background: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+}
+
+.eye{
+  width: 240px;
+  height: 120px;
+  border-radius: 50%;
+  background: #fff;
+  margin: 40px;
+  position: relative;
+  overflow: hidden;
+}
+
+.ball{
+  width: 40px;
+  height: 40px;
+  background: rgb(8, 162, 227);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Style Pour Formulaire Ajoutez un Livre */ 
+
+
+/* .success, .error {
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+.success {
+  background: green;
+}
+.error {
+  background: red;
+}
+
+h1{
+  text-align: center;
+}
+label{
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+input{
+  display: block;
+  padding: 20px;
+  width: 40%;
+  min-width: 350px;
+  margin: 0 auto;
+}
+
+.inputs{
+  margin: 40px;
+}
+
+button{
+  background: #040466 ;
+  color: white;
+  padding: 20px 50px;
+  font-size: 18px;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto 50px;
+  text-align: center;
+}
+
+.delete{
+  padding: 0px;
+  width: 30px;
+  height: 30px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table{
+  width: 100%;  
+}
+th{
+  width: 33%;
+}
+td{
+  text-align: center;
+} */
+
+/* Fin Style Pour Formulaire Ajoutez un Livre */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .cercle {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background: lightgreen;
+    transition: background-color 0.6s ease;
+  }
+
+  .carre {
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+    background: lightblue;
+    transition: background-color 0.6s ease;
+  }
+
+  .rectangle{
+    margin-top: 20px;
+    width: 350px;
+    height: 250px;
+    background: red;
+    transition: background-color 0.6 ease;
+  }
+   */
+  
